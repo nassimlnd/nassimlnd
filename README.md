@@ -28,4 +28,4 @@ A french student web developper 🚀
 
 ---
 
-⭐️ From [Nassim](nassimlounadi.fr)
+⭐️ From [Nassim](https://nassimlounadi.fr)
