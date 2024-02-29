@@ -10,9 +10,9 @@ A french student web developper 🚀
 
 ## 🚀 Skills
 
--   **Frontend**: HTML, CSS, JavaScript, VueJS
--   **Backend**: NodeJS, AdonisJS, PHP
--   **Database**: MySQL, MongoDB
+-   **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS
+-   **Backend**: AdonisJS, PHP, Laravel, Symfony
+-   **Database**: MySQL, MongoDB, PostgreSQL
 -   **DevOps**: Docker, Linux
 
 ## 📈 Some stats
