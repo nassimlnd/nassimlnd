@@ -17,8 +17,6 @@ A french student web developper 🚀
 
 ## 📈 Some stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassimlnd&show_icons=true&theme=radical)
-
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nassimlnd&theme=radical)
 
 ## 📫 How to reach me
