@@ -17,7 +17,7 @@ A french student web developper 🚀
 
 ## 📈 Some stats
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nassimlnd&theme=radical)
+![Streak stats](https://github-readme-stats.vercel.app/api?username=nassimlnd&theme=radical&show_icons=true)
 
 ## 📫 How to reach me
 
