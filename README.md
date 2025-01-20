@@ -17,7 +17,7 @@ A french student web developper 🚀
 
 ## 📈 Some stats
 
-![Streak stats]((https://readme-streak.nassimlounadi.fr?user=nassimlnd))
+![Streak stats](https://readme-streak.nassimlounadi.fr?user=nassimlnd)
 
 ## 📫 How to reach me
 
