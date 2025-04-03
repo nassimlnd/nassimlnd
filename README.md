@@ -12,12 +12,12 @@ A french student web developper 🚀
 
 -   **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS
 -   **Backend**: AdonisJS, PHP, Laravel, Symfony
--   **Database**: MySQL, MongoDB, PostgreSQL
+-   **Database**: MySQL, PostgreSQL
 -   **DevOps**: Docker, Linux
 
 ## 📈 Some stats
 
-![Streak stats](https://readme-streak.nassimlounadi.fr?user=nassimlnd)
+![Streak stats](https://nirzak-streak-stats.vercel.app/?user=nassimlnd)
 
 ## 📫 How to reach me
 
