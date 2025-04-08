@@ -10,7 +10,7 @@ A french student web developper 🚀
 
 ## 🚀 Skills
 
--   **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS
+-   **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Nuxt, TailwindCSS
 -   **Backend**: AdonisJS, PHP, Laravel, Symfony
 -   **Database**: MySQL, PostgreSQL
 -   **DevOps**: Docker, Linux
