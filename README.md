@@ -2,7 +2,7 @@
 
 A french student web developper 🚀
 
-## About me:
+## 👨🏽‍💻 About me
 
 -   👨🏽‍💻 I'm currently a student at ESGI Paris (France)
 -   🌱 I’m currently starting a **new big project** to improve my skills
