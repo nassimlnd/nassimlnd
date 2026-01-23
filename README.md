@@ -5,13 +5,12 @@ A french student web developper 🚀
 ## 👨🏽‍💻 About me
 
 -   👨🏽‍💻 I'm currently a student at ESGI Paris (France)
--   🌱 I’m currently starting a **new big project** to improve my skills
 -   💬 Ask me about anything, I am happy to help
 
 ## 🚀 Skills
 
--   **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Nuxt, TailwindCSS
--   **Backend**: AdonisJS, PHP, Laravel, Symfony
+-   **Frontend**: TypeScript, React, Vue.js, Nuxt, TailwindCSS
+-   **Backend**: AdonisJS, Laravel, Symfony
 -   **Database**: MySQL, PostgreSQL
 -   **DevOps**: Docker, Linux
 
