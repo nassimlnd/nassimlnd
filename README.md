@@ -16,7 +16,7 @@ A french student web developper 🚀
 
 ## 📈 Some stats
 
-![Streak stats](https://nirzak-streak-stats.vercel.app/?user=nassimlnd)
+![Streak stats](https://streak-stats.demolab.com/?user=nassimlnd)
 
 ## 📫 How to reach me
 
